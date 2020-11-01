@@ -1,7 +1,7 @@
 ## Hyunhee
 <div style="border:1px"></div>
 
-🙌🏼 Hi,there
+🙌🏼 Hi,there <p>
 🌱 I’m currently learning JS, Node.js, python, Django
 📓 I want to learn machine learning.
 
