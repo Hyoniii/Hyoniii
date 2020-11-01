@@ -6,8 +6,8 @@
 📓 I want to learn machine learning.<p>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyoniii&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyoniii&hide=stars)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyoniii&show_icons=true&hide=stars & theme = highcontrast)
+
 <!--
 **Hyoniii/Hyoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
