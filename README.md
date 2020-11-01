@@ -1,5 +1,12 @@
-## Hi there 👋
-<div style="border:1px">sisisi</div>
+## Hyunhee
+<div style="border:1px"></div>
+
+🙌🏼 Hi,there
+🌱 I’m currently learning JS, Node.js, python, Django
+📓 I want to learn machine learning.
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <!--
 **Hyoniii/Hyoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
