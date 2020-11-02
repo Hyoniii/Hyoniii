@@ -1,12 +1,12 @@
 ## Hyunhee
 <div style="border:1px"></div>
-<div style="line-align:center">
+
 ### 🙌🏼 Hi,there <p>
 #### 🌱 I’m currently learning JS, Node.js, python, Django<p>
 #### 📓 I want to learn machine learning.<p>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyoniii&show_icons=true&hide=stars&theme=flag-india)</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyoniii&show_icons=true&hide=stars&theme=flag-india)
 
 <!--
 **Hyoniii/Hyoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
