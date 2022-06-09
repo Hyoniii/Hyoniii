@@ -2,6 +2,7 @@
 <div style="border:1px"></div>
 
 ### 🙌🏼 Hi,there <p>
+#### 🌱 JS와 Vue.js, Django를 이용한 프로젝트를 진행했습니다.<p>
 #### 🌱 백엔드 개발자 박현희입니다. Django과 Flask를 이용한 팀 프로젝트를 진행했습니다.<p>
 #### 🌱 JS와 node.js를 이용한 개인 프로젝트를 진행했습니다.<p>
 #### 📓 계발하는 개발자를 꿈 꿉니다.<p>
