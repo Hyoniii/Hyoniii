@@ -5,7 +5,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyoniii&show_icons=true&hide=stars&theme=flag-india)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyoniii&show_icons=true&hide=stars&theme=flag-india)-->
 
 
 <!--
